@@ -9,13 +9,13 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/github/languages/top/rafaelq80/javascript_tjs13?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/rafaelq80/javascript_tjs13?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/count/rafaelq80/javascript_tjs13?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/rafaelq80/javascript_tjs13?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/Mateus-Santos13/javascript_tjs13?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/Mateus-Santos13/javascript_tjs13?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/count/Mateus-Santos13/javascript_tjs13?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/Mateus-Santos13/javascript_tjs13?style=flat-square" />
     <br />
-  <img src="https://img.shields.io/github/issues/rafaelq80/javascript_tjs13?style=flat-square" />
-  <img src="https://img.shields.io/github/issues-pr/rafaelq80/javascript_tjs13?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/Mateus-Santos13/javascript_tjs13?style=flat-square" />
+  <img src="https://img.shields.io/github/issues-pr/Mateus-Santos13/javascript_tjs13?style=flat-square" />
      <img src="https://img.shields.io/badge/bootcamp-Generation Brasil-orange?style=flat-square)"/>
 
 </div>
@@ -92,7 +92,7 @@ Para executar os exemplos localmente, você precisará de:
 1. Clone o repositório
 
 ```bash
-git clone https://github.com/rafaelq80/javascript_tjs13.git
+git clone https://github.com/Mateus-Santos13/javascript_tjs13.git
 ```
 
 2. Abra a pasta do projeto no **Visual Studio Code**
@@ -136,6 +136,6 @@ Este projeto está licenciado sob a licença **MIT**. Sinta-se livre para estuda
 
 
 
-Desenvolvido por [**Rafael**](https://github.com/rafaelq80)
+Desenvolvido por [**Mateus**](https://github.com/Mateus-Santos13)
 Para dúvidas, sugestões ou colaborações, utilize as **issues do GitHub** ou entre em contato diretamente pelo perfil.
 
