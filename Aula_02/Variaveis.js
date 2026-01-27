@@ -1,10 +1,10 @@
-let nome = "Mateus Santos";
+let nome = "Mateus Santos"; //Definição de variável -- Javascript não precisa definir o tipo da variável
 let profissao = "Pessoa Desenvolvedora";
 let salarioBruto = 3500.90;
 const bonus = 0.05;
 
 
-console.log("O tipo da variável nome é: " + typeof (nome));
+console.log("O tipo da variável nome é: " + typeof (nome)); // Verifica o tipo de variável
 
 if (salarioBruto > 1000){
     var mensagem = "Salario > 1000";
