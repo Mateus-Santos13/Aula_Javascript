@@ -1,4 +1,4 @@
-// Exercício 6 da lista 01 - Laço condicional if
+// Exercício 6 da lista 02 - Laço condicional switch
 
 // Entrar com o nome do colaborador, o código do cargo, o salário real e imprimir o nome, o código do cargo, o salário real e o salário reajustado conforme o percentual de reajuste.
 //1 - Gerente - 10%
