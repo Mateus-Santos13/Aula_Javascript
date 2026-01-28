@@ -1,4 +1,4 @@
-// Exercício 8 da lista 01 - Laço condicional switch
+// Exercício 8 da lista 02 - Laço condicional switch
 
 // Algorítmo para simular operações básicas de uma conta bancária. O saldo deve iniciar em R$ 1.000,00. As operações são as seguintes:
 // Código operação | Operação
